@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: John Carlos
+Handle: hgrub443
+Start Time: 2026-11-23 22:27:46.960180
+End Time: 2026-11-23 22:29:27.753821
+Duration (minutes): 1.68
+Score: 10/10
+Rating: EXPERT
+---- Threat Logs ----
+Threat: Telnet Credential Theft
+ALERT: Failed login attempt detected from 192.168.1.216 on port
+ALERT: Failed login attempt detected from 192.168.1.139 on port
+-------------------
+Threat: MySQL Data Theft
+CRITICAL: Ransomware activity suspected via
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: SSH Brute Force Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: FTP Credential Sniffing
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Failed login attempt detected from 192.168.1.99 on port
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: POP3 Credential Sniffing
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: HTTP Web Exploit
+CRITICAL: Ransomware activity suspected via
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: Proxy Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.129 on port
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SMTP Phishing Campaign
+ALERT: Failed login attempt detected from 192.168.1.117 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: SMB Ransomware Attack
+ALERT: Failed login attempt detected from 192.168.1.16 on port
+ALERT: Possible brute force attempt detected
+-------------------
+===================================
